@@ -11,6 +11,8 @@
 
 Determined and productive web developer with a passion for creative solutions. Dedicated to learning additional frontend technologies. Looking for an opportunity to start a career as a Junior Frontend Developer, to be a hard-working asset to any team, to learn, grow and develop long-term.
 
+---
+
 ## Skills:
 
 - JS, HTML, CSS;
@@ -28,3 +30,16 @@ Determined and productive web developer with a passion for creative solutions. D
 2. Udemy courses;
 3. HTML-academy courses;
 4. Codecademy.
+
+---
+
+## Education:
+
+- 2012-2016 BSEU, Bachelor of economics
+- 2017-2019 BSEU, Master of economics
+
+---
+
+## English:
+
+B2.
