@@ -9,4 +9,22 @@
 
 ## Summary:
 
-Determined and productive web developer with a passion for creative solutions. Dedicated to learning additional frontend technologies. Looking for an opportunity to start a career as a junior Frontend developer, to be a hard-working asset to any team, to learn, grow and develop long-term.
+Determined and productive web developer with a passion for creative solutions. Dedicated to learning additional frontend technologies. Looking for an opportunity to start a career as a Junior Frontend Developer, to be a hard-working asset to any team, to learn, grow and develop long-term.
+
+## Skills:
+
+- JS, HTML, CSS;
+- Git;
+- Node JS;
+- Adobe Photoshop, Adobe Illustrator;
+- Figma;
+- VS Code.
+
+---
+
+## Experience:
+
+1. Frontend courses (TMS);
+2. Udemy courses;
+3. HTML-academy courses;
+4. Codecademy.
