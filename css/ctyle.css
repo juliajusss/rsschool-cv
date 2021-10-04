@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  body {
+    margin: 0 auto;
+    max-width: 70%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+.photo {
+  width: 400px;
+  height: 400px;
+}
+
+  .header-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
